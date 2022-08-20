@@ -2,7 +2,7 @@
 
 
 
-                      🔭 I’m  a software develpoer student  based in Lagos, Nigeria. I enjoy making web applications.
+                      🔭 I’m  a software developer student  based in Lagos, Nigeria. I enjoy making web applications.
                          I yearn to always learn more to become a better programmer and version of myself.
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
@@ -12,7 +12,7 @@ const muyiwaFawole = {
   pronouns: ["he", "him"],
   code: [JavaScript, HTML/CSS, Bootstrap],
   askMeAbout: [Snooker, Politics],
-  challenge: "I am honing my Javascript / React skills and picking up TypeScript",
+  challenge: "I am honing my JavaScript / React skills and picking up TypeScript",
   funFacts: ['I have less than 1 year of remote work experience with devs from all over the world', 
   'my tiny chihuahua dog is ready to woof at the right offer']
 }
