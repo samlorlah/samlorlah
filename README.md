@@ -2,7 +2,7 @@
 
 
 
-                      🔭 I’m  a software developer student  based in Lagos, Nigeria. I enjoy making web applications.
+                      🔭 I’m  a software developer  based in Lagos, Nigeria. I enjoy making web applications.
                          I yearn to always learn more to become a better programmer and version of myself.
 ### <img src="https://media.giphy.com/media/kbVuid1Ak3uEHJUMVO/giphy.gif" width="50"> A little more about me...  
 
