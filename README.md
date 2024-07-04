@@ -10,7 +10,7 @@
 const muyiwaFawole = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "him"],
-  code: [JavaScript, HTML/CSS, Bootstrap],
+  code: [JavaScript, HTML/CSS, Bootstrap, PHP],
   askMeAbout: [Snooker, Politics],
   challenge: "I am honing my JavaScript / React skills and picking up TypeScript",
   funFacts: ['I have less than 1 year of remote work experience with devs from all over the world', 
